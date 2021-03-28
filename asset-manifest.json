@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0af4e61.chunk.css",
-    "main.js": "/static/js/main.cb509c22.chunk.js",
-    "main.js.map": "/static/js/main.cb509c22.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2eb9466a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2eb9466a.js.map",
-    "static/js/2.5e220627.chunk.js": "/static/js/2.5e220627.chunk.js",
-    "static/js/2.5e220627.chunk.js.map": "/static/js/2.5e220627.chunk.js.map",
-    "static/js/3.9d90054d.chunk.js": "/static/js/3.9d90054d.chunk.js",
-    "static/js/3.9d90054d.chunk.js.map": "/static/js/3.9d90054d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f0af4e61.chunk.css.map": "/static/css/main.f0af4e61.chunk.css.map",
-    "static/js/2.5e220627.chunk.js.LICENSE.txt": "/static/js/2.5e220627.chunk.js.LICENSE.txt",
-    "static/media/Logo.dbdbf18d.png": "/static/media/Logo.dbdbf18d.png"
+    "main.css": "/email-signature-generator/static/css/main.f0af4e61.chunk.css",
+    "main.js": "/email-signature-generator/static/js/main.cb509c22.chunk.js",
+    "main.js.map": "/email-signature-generator/static/js/main.cb509c22.chunk.js.map",
+    "runtime-main.js": "/email-signature-generator/static/js/runtime-main.f6314ae1.js",
+    "runtime-main.js.map": "/email-signature-generator/static/js/runtime-main.f6314ae1.js.map",
+    "static/js/2.5e220627.chunk.js": "/email-signature-generator/static/js/2.5e220627.chunk.js",
+    "static/js/2.5e220627.chunk.js.map": "/email-signature-generator/static/js/2.5e220627.chunk.js.map",
+    "static/js/3.9d90054d.chunk.js": "/email-signature-generator/static/js/3.9d90054d.chunk.js",
+    "static/js/3.9d90054d.chunk.js.map": "/email-signature-generator/static/js/3.9d90054d.chunk.js.map",
+    "index.html": "/email-signature-generator/index.html",
+    "static/css/main.f0af4e61.chunk.css.map": "/email-signature-generator/static/css/main.f0af4e61.chunk.css.map",
+    "static/js/2.5e220627.chunk.js.LICENSE.txt": "/email-signature-generator/static/js/2.5e220627.chunk.js.LICENSE.txt",
+    "static/media/Logo.dbdbf18d.png": "/email-signature-generator/static/media/Logo.dbdbf18d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2eb9466a.js",
+    "static/js/runtime-main.f6314ae1.js",
     "static/js/2.5e220627.chunk.js",
     "static/css/main.f0af4e61.chunk.css",
     "static/js/main.cb509c22.chunk.js"
