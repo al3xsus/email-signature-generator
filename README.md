@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Simple SPA for email-signature generation.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Original medium post](https://al3xsus.medium.com/how-to-create-a-signature-generating-app-with-react-ffeb2f2201cc)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project also
+use Material-UI and Typescript.
 
 ## Available Scripts
 
@@ -23,3 +26,7 @@ Launches the test runner in the interactive watch mode.\
 Builds the app for production to the `build` folder.\
 
 ### `yarn eject`
+
+# Deploy and development notes
+
+I've used Node v12.14.1
