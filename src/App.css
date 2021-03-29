@@ -16,8 +16,8 @@
 .vertical-line {
     width: 0;
     height: 100%;
-    border: 1px solid grey;
-    margin-right: 10px;
+    border-right: 1px solid grey;
+    margin-right: 9px;
     margin-left: 10px
 }
 

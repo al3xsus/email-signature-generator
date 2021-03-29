@@ -2,6 +2,7 @@ import {PhotoSignatureProps} from "./App";
 import TwitterLogo from "./assets/twitter.png";
 import LinkedInLogo from "./assets/linkedin.png";
 import FacebookLogo from "./assets/facebook.png";
+import BehanceLogo from "./assets/behance.png"
 import Logo from "./assets/Logo.png";
 
 const Signature = (props: PhotoSignatureProps) => {
@@ -43,6 +44,9 @@ const Signature = (props: PhotoSignatureProps) => {
                         </a>
                         <a href={"https://www.facebook.com/"}>
                             <img src={FacebookLogo} alt={""}/>
+                        </a>
+                        <a href={"https://www.behance.net/"}>
+                            <img src={BehanceLogo} alt={""}/>
                         </a>
                     </div>
                 </td>
