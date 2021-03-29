@@ -18,7 +18,7 @@
     "email-signature"
   ],
   "license": "MIT",
-  "name": "signature-generator",
+  "name": "email-signature-generator",
   "private": true,
   "repository": {
     "type": "git",

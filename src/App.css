@@ -1,27 +1,27 @@
 .signature {
-  height: 170px;
-  max-width: 100%;
-  white-space: nowrap;
-  background: #FFFFFF
+    height: 170px;
+    max-width: 100%;
+    white-space: nowrap;
+    background: #FFFFFF
 }
 
 .social-logos-frame {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: space-between;
-  height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 32px;
 }
 
 .vertical-line {
-  width: 0;
-  height: 100%;
-  border: 1px solid grey;
-  margin-right: 10px;
-  margin-left: 10px
+    width: 0;
+    height: 100%;
+    border: 1px solid grey;
+    margin-right: 10px;
+    margin-left: 10px
 }
 
 .main-image {
-  width: 150px;
-  height: 150px;
+    width: 150px;
+    height: 150px;
 }
