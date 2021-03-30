@@ -30,3 +30,21 @@ Builds the app for production to the `build` folder.\
 # Deploy and development notes
 
 I've used Node v12.14.1
+
+## How it works
+
+Just input your data and you'll get the result.
+
+## Screenshots
+
+Main page
+
+![Main page](screenshots/Main.png?raw=true "Main page")
+
+Signature with logo
+
+![Signature with logo](screenshots/NoPhotoSignature.png?raw=true "Signature with logo")
+
+Signature with photo
+
+![Signature with logo](screenshots/PhotoSignature.png?raw=true "Signature with logo")
