@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/email-signature-generator/static/css/main.2d6c6c69.chunk.css",
-    "main.js": "/email-signature-generator/static/js/main.4a145464.chunk.js",
-    "main.js.map": "/email-signature-generator/static/js/main.4a145464.chunk.js.map",
+    "main.js": "/email-signature-generator/static/js/main.d010b285.chunk.js",
+    "main.js.map": "/email-signature-generator/static/js/main.d010b285.chunk.js.map",
     "runtime-main.js": "/email-signature-generator/static/js/runtime-main.10986fba.js",
     "runtime-main.js.map": "/email-signature-generator/static/js/runtime-main.10986fba.js.map",
     "static/js/2.3a956c31.chunk.js": "/email-signature-generator/static/js/2.3a956c31.chunk.js",
@@ -12,12 +12,16 @@
     "index.html": "/email-signature-generator/index.html",
     "static/css/main.2d6c6c69.chunk.css.map": "/email-signature-generator/static/css/main.2d6c6c69.chunk.css.map",
     "static/js/2.3a956c31.chunk.js.LICENSE.txt": "/email-signature-generator/static/js/2.3a956c31.chunk.js.LICENSE.txt",
-    "static/media/Logo.dbdbf18d.png": "/email-signature-generator/static/media/Logo.dbdbf18d.png"
+    "static/media/Logo.dbdbf18d.png": "/email-signature-generator/static/media/Logo.dbdbf18d.png",
+    "static/media/behance.fab394ae.png": "/email-signature-generator/static/media/behance.fab394ae.png",
+    "static/media/facebook.b28fe430.png": "/email-signature-generator/static/media/facebook.b28fe430.png",
+    "static/media/linkedin.20b49136.png": "/email-signature-generator/static/media/linkedin.20b49136.png",
+    "static/media/twitter.27034a4f.png": "/email-signature-generator/static/media/twitter.27034a4f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.10986fba.js",
     "static/js/2.3a956c31.chunk.js",
     "static/css/main.2d6c6c69.chunk.css",
-    "static/js/main.4a145464.chunk.js"
+    "static/js/main.d010b285.chunk.js"
   ]
 }
