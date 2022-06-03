@@ -6,6 +6,7 @@
 }
 
 .social-logos-frame {
+    width: 150px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
